@@ -20,7 +20,7 @@ final class MainCoordinator: MainCoordinatorProtocol {
         var title: String {
             switch self {
             case .today:
-                "tabbarItem.today"
+                "Today"
             }
         }
 
